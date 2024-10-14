@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @tyriksheyh4567
+- 👋 Hi, I’m **@tyriksheyh4567**
 - 👀 I’m interested in coding and computer games.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and a bit of C++.
 - 💞️ I’m looking to collaborate on nobody now.
 - 📫 How to reach me: I don't want it now.
-- 😄 Pronouns: what is this
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: idk
 
 <!---
