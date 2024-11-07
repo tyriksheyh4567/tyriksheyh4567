@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@tyriksheyh4567**
 - 👀 I’m interested in *coding* and *computer games*.
-- 🌱 I’m currently learning **Python** and a **bit of C++**.
+- 🌱 I’m currently learning **Python** and **a bit of C++**.
 - 💞️ I’m looking to collaborate on nobody now.
 - 📫 How to reach me: I don't want it now.
 - 😄 Pronouns: he/him
